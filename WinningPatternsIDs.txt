@@ -1,0 +1,32 @@
+1 - first diagonal
+	tl,mm,br == 1 5 9
+2 - second diagonal
+	tr,mm,bl == 3 5 7
+3 - first row
+	tl,tm,tr == 1 2 3
+4 - second row
+	ml,mm,ml == 4 5 6
+5 - third row
+	bl,bm,br == 7 8 9
+6 - first column
+	tl,ml,rl == 1 4 7
+7 - second column
+	tm,mm,bm == 2 5 8
+8 - third column
+	tr,mr,br == 3 6 9
+1 - first diagonal
+	tl,mm,br == 1 5 9
+2 - second diagonal
+	tr,mm,bl == 3 5 7
+3 - first row
+	tl,tm,tr == 1 2 3
+4 - second row
+	ml,mm,ml == 4 5 6
+5 - third row
+	bl,bm,br == 7 8 9
+6 - first column
+	tl,ml,rl == 1 4 7
+7 - second column
+	tm,mm,bm == 2 5 8
+8 - third column
+	tr,mr,br == 3 6 9
